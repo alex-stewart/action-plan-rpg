@@ -1,0 +1,30 @@
+site_name: Action Plan SRD
+theme:
+  name: material
+  icon:
+    logo: material/dice-d20
+  palette:
+  - scheme: default
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/brightness-7 
+      name: Switch to dark mode
+  - scheme: slate
+    primary: indigo
+    accent: light blue
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+    - toc.integrate 
+    - navigation.instant
+    - navigation.tracking
+copyright: Copyright &copy; 2022 Alex Stewart
+plugins:
+  - search
+nav:
+  - Overview: index.md
+  - Game Creation: game_creation.md
+  - Character Creation: character_creation.md
+  - Playing the Game: playing_the_game.md
