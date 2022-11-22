@@ -12,9 +12,9 @@ Examples include a tribe of cavemen, a band of apocalypse survivors or a biker g
 Archetypes are the categories of character a play can choose to create, which create speciality with little complexity.
 The Game Master can create any number of archetypes, but they should be distinct and fit the theme of your game.
 
-For example, in a medieval court setting you may have the following archetypes:
+For example, in a medieval court setting you may have the following archetypes: 
 - Knight
-- Scholar
+- Monk
 - Spy
 
 ## Agendas
@@ -25,14 +25,12 @@ The Game Master will have to decide if they will allow players to be a part of t
 If the Game Master is deciding the agendas themselves, it's advised to have a list of potential agendas and randomise them.
 A good set of agendas would contain opposing ideas.
 
-Some examples of agendas for a space opera theme:
-- 
+Some examples of agendas for a tribe of goblins:
+- Hoarding treasure
+- Destroying non-goblin settlements
+- Building monuments to the goblin god
 
 ## Actions
-
-### Minor Actions
-
-The Game Master should decide the maximum impact level of a minor action.
 
 ### Action Plans
 
