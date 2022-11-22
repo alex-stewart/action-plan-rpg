@@ -39,9 +39,3 @@ The Game Master should decide the maximum impact level of a minor action.
 The Game Master should decide the schedule of action plans.
 
 It's recommended to have 1-3 action plan submissions per week, depending on the eagerness of your players.
-
-### Action Plan Variations
-
-The Game Master should decide if they will allow variations to action plans to be submitted by individual players.
-The impact of an action plan variation should be considered.
-For example, one player might want to join the party raiding a village but might want to avoid killing anybody.
