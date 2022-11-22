@@ -28,9 +28,3 @@ Variations with high impact are unlikely to succeed.
 Certain minor actions can be taken for free, such as trading items, eating and reading a letter.
 Minor actions can be taken at any time.
 The minor action should not assume to be successful until the Game Master has responded success/failure.
-
-## NPCs (Non-Player Characters)
-
-The Game Master may allow players to invite NPCs to work with them.
-Just like player characters, NPCs are required food to survive.
-The Game Master should provide limits to the activities of the NPCs.
