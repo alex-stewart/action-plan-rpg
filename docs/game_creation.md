@@ -30,9 +30,8 @@ Some examples of agendas for a tribe of goblins:
 - Destroying non-goblin settlements
 - Building monuments to the goblin god
 
-## Actions
 
-### Action Plans
+## Action Plans
 
 The Game Master should decide the schedule of action plans.
 
