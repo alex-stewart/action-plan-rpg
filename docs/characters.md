@@ -19,6 +19,7 @@ Agendas are scored on the collective meeting the criteria and not the individual
 A good set of agendas would contain opposing ideas.
 
 Some examples of agendas for a tribe of goblins:
+
 - Hoarding treasure
 - Destroying non-goblin settlements
 - Building monuments to the goblin god
