@@ -6,3 +6,5 @@ Individual characters are weak, and should work together as a team by submitting
 
 One real-time week plays out the events of two in-game days.
 In a regular week players will have the option to submit or participate in an action plan twice.
+
+It's recommended to use an instant messaging platform such as Discord

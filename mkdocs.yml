@@ -25,6 +25,5 @@ plugins:
   - search
 nav:
   - Overview: index.md
-  - Game Creation: game_creation.md
-  - Character Creation: character_creation.md
-  - Playing the Game: playing_the_game.md
+  - Characters: characters.md
+  - Actions: actions.md
