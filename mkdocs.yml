@@ -1,4 +1,4 @@
-site_name: Action Plan SRD
+site_name: Action Plan RPG
 theme:
   name: material
   icon:
@@ -20,10 +20,14 @@ theme:
     - toc.integrate 
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs
 copyright: Copyright &copy; 2022 Alex Stewart
 plugins:
   - search
 nav:
-  - Overview: index.md
-  - Characters: characters.md
-  - Actions: actions.md
+  - Home: index.md
+  - Rules:
+    - Characters: rules/characters.md
+    - Actions: rules/actions.md
+  - Campaigns:
+    - The Goblin Cave: campaigns/the_goblin_cave.md
