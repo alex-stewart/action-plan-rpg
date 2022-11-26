@@ -11,7 +11,6 @@ During Action Plan Submission, a player may either:
 The Game Master should decide the schedule for action plan submission.
 It's recommended to have 1-3, evenly spaced apart, action plan submissions each week.
 
-
 ### Flowchart
 
 Actions can be complicated, with multiple steps, they should be submitted in the form of a flowchart.
