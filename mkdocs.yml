@@ -29,5 +29,11 @@ nav:
   - Rules:
     - Characters: rules/characters.md
     - Actions: rules/actions.md
-  - Campaigns:
-    - The Goblin Cave: campaigns/the_goblin_cave.md
+  - The Goblin Cave:
+    - Overview: the_goblin_cave/overview.md
+    - The Cave: the_goblin_cave/cave.md
+    - Archetypes: the_goblin_cave/archetypes.md
+    - Hunger: the_goblin_cave/hunger.md
+    - Inventory: the_goblin_cave/inventory.md
+    - Minions: the_goblin_cave/minions.md
+    - The Goblin Code: the_goblin_cave/code.md
